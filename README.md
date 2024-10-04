@@ -1,10 +1,5 @@
 ## Hi there 👋 i'm Abdullah
 
-<!--
-**Abdullah001113/Abdullah001113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # 💫 About Me:
 💻 Software Developer | Open-Source Enthusiast<br>🌱 Currently learning Java<br>⚡ Fun fact: I once debugged a program for 5 hours, only to realize the problem was a missing semicolon! 😅<br>👨‍💻 Building projects in Java<br>💡 Always experimenting with new technologies and open-source collaborations.
 
